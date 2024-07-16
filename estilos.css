@@ -235,7 +235,10 @@ display: flex;
 }
 .recursos{
     padding: 150px;
-    margin-bottom: 1000px;
+
+}
+.spotify{
+    padding: 100px;
 }
 .contactame{
     text-align: center;
