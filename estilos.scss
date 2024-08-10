@@ -23,7 +23,7 @@ body {
 .navbar-marca{
     text-decoration: none !important;
     color: rgb(170, 67, 177) !important; 
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .navbar-marca span{
@@ -35,17 +35,18 @@ body {
     
     text-align: center;
     justify-content: right;
-    font-size: 30px;
-    padding-right: 50px;
+    font-size: 40px;
 }
+
 .nav-link{
     text-decoration: none !important;
     color: rgb(76, 30, 79,0.95) !important;
-    font-size: 25px;
+    font-size: 25px !important;
 }
+
 .navbar{
     background-color: rgb(57, 22, 59,0) ;
-    
+
 }
 .nav-link:hover{
     color: white !important;
@@ -185,7 +186,7 @@ footer p{
     color: rgb(0, 0, 0);
 }
 .blog2imagen{
-display: flex;
+    display: flex;
     justify-content: center;
 }
 .sobremi{
@@ -253,7 +254,7 @@ display: flex;
     text-align: center;
 }
 .contactame span{
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(101, 39, 104);
 }
 
@@ -263,7 +264,7 @@ display: flex;
 
 }
 .contactame p{
-    font-size: 15px;
+    font-size: 25px;
 }
 .turnos {
     background-color: #fff;
@@ -527,7 +528,7 @@ button:hover {
             font-size: 15px;
         }
         .Blog ul{
-            font-size: 20px;
+            font-size: 15px;
         }
         .Blog img{
             height: auto;
@@ -540,7 +541,7 @@ button:hover {
             font-size: 15px;
         }
         .blog2 ul{
-            font-size: 20px;
+            font-size: 15px;
         }
         #container1{
             grid-template-rows: auto;
@@ -599,4 +600,4 @@ button:hover {
     }
     
 
-body{background-image: linear-gradient(to left top, rgb(225, 90, 166,0.85), rgb(211, 91, 166,0.85), rgb(197, 92, 166,0.85), rgb(184, 92, 164,0.85), rgb(170, 92, 162,0.85), rgb(171, 94, 163,0.85), rgb(173, 95, 164,0.85), rgb(174, 97, 165,0.85), rgb(190, 100, 170,0.85), rgb(207, 104, 173,0.85), rgb(223, 107, 176,0.85), rgb(240, 111, 178,0.85)),url(./img/8459538.jpg);}
+body{background-image: linear-gradient(to left top, rgb(225, 90, 166,0.95), rgb(211, 91, 166,0.95), rgb(197, 92, 166,0.95), rgb(184, 92, 164,0.95), rgb(170, 92, 162,0.95), rgb(171, 94, 163,0.95), rgb(173, 95, 164,0.95), rgb(174, 97, 165,0.95), rgb(190, 100, 170,0.95), rgb(207, 104, 173,0.95), rgb(223, 107, 176,0.95), rgb(240, 111, 178,0.95)),url(./img/8459538.jpg);}

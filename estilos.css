@@ -27,7 +27,7 @@ body {
 .navbar-marca {
   text-decoration: none !important;
   color: rgb(170, 67, 177) !important;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .navbar-marca span {
@@ -39,14 +39,13 @@ body {
 .navbar-collapse {
   text-align: center;
   justify-content: right;
-  font-size: 30px;
-  padding-right: 50px;
+  font-size: 40px;
 }
 
 .nav-link {
   text-decoration: none !important;
   color: rgba(76, 30, 79, 0.95) !important;
-  font-size: 25px;
+  font-size: 25px !important;
 }
 
 .navbar {
@@ -275,7 +274,7 @@ footer p {
 }
 
 .contactame span {
-  font-size: 20px;
+  font-size: 30px;
   color: rgb(101, 39, 104);
 }
 
@@ -285,7 +284,7 @@ footer p {
 }
 
 .contactame p {
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .turnos {
@@ -522,7 +521,7 @@ button:hover {
     font-size: 15px;
   }
   .Blog ul {
-    font-size: 20px;
+    font-size: 15px;
   }
   .Blog img {
     height: auto;
@@ -535,7 +534,7 @@ button:hover {
     font-size: 15px;
   }
   .blog2 ul {
-    font-size: 20px;
+    font-size: 15px;
   }
   #container1 {
     grid-template-rows: auto;
@@ -585,5 +584,7 @@ button:hover {
   }
 }
 body {
-  background-image: linear-gradient(to left top, rgba(225, 90, 166, 0.85), rgba(211, 91, 166, 0.85), rgba(197, 92, 166, 0.85), rgba(184, 92, 164, 0.85), rgba(170, 92, 162, 0.85), rgba(171, 94, 163, 0.85), rgba(173, 95, 164, 0.85), rgba(174, 97, 165, 0.85), rgba(190, 100, 170, 0.85), rgba(207, 104, 173, 0.85), rgba(223, 107, 176, 0.85), rgba(240, 111, 178, 0.85)), url(./img/8459538.jpg);
-}/*# sourceMappingURL=estilos.css.map */
+  background-image: linear-gradient(to left top, rgba(225, 90, 166, 0.95), rgba(211, 91, 166, 0.95), rgba(197, 92, 166, 0.95), rgba(184, 92, 164, 0.95), rgba(170, 92, 162, 0.95), rgba(171, 94, 163, 0.95), rgba(173, 95, 164, 0.95), rgba(174, 97, 165, 0.95), rgba(190, 100, 170, 0.95), rgba(207, 104, 173, 0.95), rgba(223, 107, 176, 0.95), rgba(240, 111, 178, 0.95)), url(./img/8459538.jpg);
+}
+
+/*# sourceMappingURL=estilos.css.map */
